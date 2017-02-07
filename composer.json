@@ -3,5 +3,8 @@
     "psr-4":{
       "Itb\\":"src"
     }
+  },
+  "require": {
+    "silex/silex": "^2.0"
   }
 }
